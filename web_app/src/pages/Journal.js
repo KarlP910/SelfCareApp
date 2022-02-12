@@ -12,8 +12,8 @@ export default function Journal() {
             <img src={JournalImg} width="400" height="400" alt="img" />
           </div>
           <div className="w-full md:w-2/3 text-white flex flex-col p-3">
-            <h1 className="text-xl">List out some advantages of writing...</h1>
-            <button className='bg-secondary py-2 px-8 rounded-md text-lg'>Create</button>
+            <h1 className="text-xl text-justify">Seeing your progress can also give you a serious confidence boost. You can feel proud looking back at the challenges you faced and seeing how far you’ve come.</h1>
+            <button className='bg-secondary py-2 px-8 rounded-md text-lg my-4'>Add</button>
           </div>
         </div>
       </div>

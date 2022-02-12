@@ -23,7 +23,7 @@ function LogIn() {
 
                     <div className="md:flex md:flex-col md:justify-center lg:pr-16">
 
-                        <h2 className="self-center mb-4 text-5xl font-bold tracking-wider text-tertiary md:text-4xl lg:text-7xl">
+                        <h2 className="mb-4 text-6xl self-center font-bold tracking-wider text-white">
                             Good Space
                         </h2>
 
