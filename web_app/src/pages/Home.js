@@ -41,7 +41,7 @@ export default function Home() {
       <div className="flex flex-row w-full items-center justify-center">
         <div className="grid place-items-center">
           <p className="italic text-2xl text-center">"{quote.content}"</p>
-          <p className="float-right text-2xl">- {quote.author}</p>
+          <p className="text-right text-2xl">- {quote.author}</p>
         </div>
         <div className="relative float-right cursor-pointer pl-4" onClick={fetchRandomQuote}><IoReload className="text-white w-6 h-6 font-bold" /></div>
       </div>
