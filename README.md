@@ -2,11 +2,11 @@
 
 ## 💡 Inspiration
 - We came accross this idea because the pandemic had a pretty negative effect on people so we thought we might try to create something that could cheer them up.
-- Also it was a category for the PolyHacks Hackathon 2022 so we thought it would be a great idea to help some people 
+- Also it was a category for the PolyHacks Hackathon 2022 so we thought it would be a great idea to help some people. 
 
 ## 💻 What it does
-- It's a website that regroup multiple techniques to mitigate stress and anxiety.You can really take care of your mental health and be better emotionnaly.
-- It regroups 4 principle techniques like relaxing music, motivationnal quotes, a journal and some yoga/breathing exercices
+- It's a website that regroups multiple techniques to mitigate stress and anxiety. You can really take care of your mental health and be better emotionally.
+- It regroups 4 principle techniques like relaxing music, motivational quotes, a journal and some yoga/breathing exercices.
 
 ## ⚙️ How we built it
 
@@ -37,7 +37,7 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 ## 🧠 Challenges we ran into
 
 - As all the hackers were from different time zones, it was a bit difficult to collaborate, but we managed to get the project done.
-- We were building an Application for the first time, so we had to learn the basics of React Native which took some time.
+- Some of us did not have any experience with Firebase. We collaborated and helped each other get up to speed.
 - We have some challenges with the backend, but we managed to get the project done.
 
 ## 🏅 Accomplishments that we're proud of
