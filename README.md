@@ -20,13 +20,9 @@ We also use Coil to create micropayments for the user you wish, to support them 
 
 ## 🔐 Best Blockchain Project Using Hedera
 
-<!-- https://github.com/publu/hedera-reactjs-boilerplate -->
+Hedera is a decentralized public network that utiltizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create next era of fast, fair, and secure applications.
 
-- Resources: https://hackp.ac/hedera-backtobasics
-
-- Hedera is a decentralized public network that utiltizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create next era of fast, fair, and secure applications.
-
-## ⛅ Use of Google Cloud
+## ⛅ Best Use of Google Cloud
 
 We are using Firebase for database and authentication. Cloud Firestore is a flexible, scalable real-time, high-performance database for mobile, web, and server development from Firebase and Google Cloud. Firebase is a free service and easy to use.
 
@@ -56,3 +52,11 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 ## 🚀 What's next for SelfCare
 
 - Adding more features to the application.
+
+<!-- Temp. -->
+
+## Resources
+
+- https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/
+- https://github.com/publu/hedera-reactjs-boilerplate
+- https://hackp.ac/hedera-backtobasics
