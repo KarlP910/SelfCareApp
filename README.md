@@ -1,8 +1,12 @@
 # Good Space
 
 ## 💡 Inspiration
+- We came accross this idea because the pandemic had a pretty negative effect on people so we thought we might try to create something that could cheer them up.
+- Also it was a category for the PolyHacks Hackathon 2022 so we thought it would be a great idea to help some people 
 
 ## 💻 What it does
+- It's a website that regroup multiple techniques to mitigate stress and anxiety.You can really take care of your mental health and be better emotionnaly.
+- It regroups 4 principle techniques like relaxing music, motivationnal quotes, a journal and some yoga/breathing exercices
 
 ## ⚙️ How we built it
 
