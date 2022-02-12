@@ -1,4 +1,4 @@
-# SelfCare
+# Good Space
 
 ## 💡 Inspiration
 
@@ -18,15 +18,15 @@ We also use Coil to create micropayments for the user you wish, to support them 
 
 <!-- Optional(If we are able to implement it) -->
 
-## 🔐 Best Blockchain Project Using Hedera
+## 🔐 MLH- Best Blockchain Project Using Hedera
 
 Hedera is a decentralized public network that utiltizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create next era of fast, fair, and secure applications.
 
-## ⛅ Best Use of Google Cloud
+## ⛅ MLH- Best Use of Google Cloud
 
 We are using Firebase for database and authentication. Cloud Firestore is a flexible, scalable real-time, high-performance database for mobile, web, and server development from Firebase and Google Cloud. Firebase is a free service and easy to use.
 
-## 🌐 Best Domain Name from Domain.com
+## 🌐 MLH- Best Domain Name from Domain.com
 
 - Any domain name with .tech, eg longitude.tech . We will choose the best domain name among all.
 
@@ -49,7 +49,7 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 - How to implement Firebase authentication and Firestore database.
 - How to use Hedera for the smart contract.
 
-## 🚀 What's next for SelfCare
+## 🚀 What's next for Good Space
 
 - Adding more features to the application.
 
@@ -60,3 +60,5 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 - https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/
 - https://github.com/publu/hedera-reactjs-boilerplate
 - https://hackp.ac/hedera-backtobasics
+- https://hedera.com/blog/build-your-first-hcs-powered-web-app
+- https://codesandbox.io/s/silly-bohr-4zro3?file=/src/App.js

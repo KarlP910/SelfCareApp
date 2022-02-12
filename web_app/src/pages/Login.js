@@ -24,7 +24,7 @@ function LogIn() {
                     <div className="md:flex md:flex-col md:justify-center lg:pr-16">
 
                         <h2 className="self-center mb-4 text-5xl font-bold tracking-wider text-tertiary md:text-4xl lg:text-7xl">
-                            SelfCare
+                            Good Space
                         </h2>
 
                         <div className="relative mt-4 outline-transparent outline">

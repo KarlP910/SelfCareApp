@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Home from '../pages/Home';
 import Music from '../pages/Music';
 import Journal from '../pages/Journal';
+import Chat from '../pages/Chat';
 import Quote from '../pages/Quote';
 import Exercise from '../pages/Exercise';
 import Profile from '../pages/Profile';
@@ -15,6 +16,7 @@ function Main() {
                 <Route path="/" element={<Home />} />
                 <Route path="/music" element={<Music />} />
                 <Route path="/journal" element={<Journal />} />
+                <Route path="/chat" element={<Chat />} />
                 <Route path="/quote" element={<Quote />} />
                 <Route path="/exercise" element={<Exercise />} />
                 <Route path="/profile" element={<Profile />} />
