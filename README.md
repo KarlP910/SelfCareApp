@@ -7,7 +7,6 @@
 ## 💻 What it does
 - It's a website that regroup multiple techniques to mitigate stress and anxiety.You can really take care of your mental health and be better emotionnaly.
 - It regroups 4 principle techniques like relaxing music, motivationnal quotes, a journal and some yoga/breathing exercices
-- 
 
 ## ⚙️ How we built it
 
