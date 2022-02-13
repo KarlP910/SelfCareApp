@@ -30,7 +30,6 @@ export default function Music() {
     getMusic();
   }, []);
 
-let idx=0;
   return (
     <div className='md:mx-28 mx-4 text-white pt-8 pb-12'>
       <div className='mx-36'>
@@ -49,7 +48,7 @@ let idx=0;
 
       {showMusic === false && (data.map((dev,index)=>(
         
-              <div key={index} onClick={() => setShowMusic(true)} className="shadow-2xl rounded-3xl bg-white items-center text-center cursor-pointer transition transform hover:scale-110 duration-500 drop-shadow-3xl">
+              <div key={index} className="shadow-2xl rounded-3xl bg-white items-center text-center cursor-pointer transition transform hover:scale-110 duration-500 drop-shadow-3xl">
                   <div className="rounded-3xl">
                     <iframe src={dev.youtubeUrl} alt="" width="300" height="300" className="rounded-3xl bg-white" allowFullScreen />
                   </div>
