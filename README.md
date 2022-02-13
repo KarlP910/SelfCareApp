@@ -1,10 +1,12 @@
 # Good Space
 
 ## 💡 Inspiration
+
 - We came accross this idea because the pandemic had a pretty negative effect on people so we thought we might try to create something that could cheer them up.
-- Also it was a category for the PolyHacks Hackathon 2022 so we thought it would be a great idea to help some people. 
+- Also it was a category for the PolyHacks Hackathon 2022 so we thought it would be a great idea to help some people.
 
 ## 💻 What it does
+
 - It's a website that regroups multiple techniques to mitigate stress and anxiety. You can really take care of your mental health and be better emotionally.
 - It regroups 4 principle techniques like relaxing music, motivational quotes, a journal and some yoga/breathing exercices.
 
@@ -12,7 +14,7 @@
 
 - React Js: For frontend
 - Coil: For web monetization
-- Hedera: For smart contract
+- Hedera: For smart contract and user information
 - Firebase: For user authentication
 - Firestore: For Database
 
@@ -20,11 +22,9 @@
 
 We also use Coil to create micropayments for the user you wish, to support them and hence motivate them to keep helping the community. The coil is a free, open-source, and open-source-compliant web monetization platform that allows you to monetize your website for a small fee.
 
-<!-- Optional(If we are able to implement it) -->
-
 ## 🔐 MLH- Best Blockchain Project Using Hedera
 
-Hedera is a decentralized public network that utiltizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create next era of fast, fair, and secure applications.
+We are using Hedera to show your Account Info, Crypto Transfer, Contract Call, Contract Deploy. Hedera is a decentralized public network that utiltizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create next era of fast, fair, and secure applications.
 
 ## ⛅ MLH- Best Use of Google Cloud
 
@@ -58,6 +58,13 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 - Adding more features to the application.
 
 <!-- Temp. -->
+
+## To check Contract Calls run following commands in Hedera Terminal
+
+```
+cd server
+node index.js
+```
 
 ## Resources
 

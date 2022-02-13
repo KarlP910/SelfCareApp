@@ -49,7 +49,7 @@ export default function Home() {
       <div className='md:grid md:grid-cols-2 items-center pt-10'>
         <div className=''>
           <h1 className='text-3xl md:text-6xl'>Who we are</h1>
-          <p className='text-xl md:text-2xl py-4 tracking-wider'>About the web app</p>
+          <p className='text-xl md:text-2xl py-4 tracking-wider'>Your exclusive space to practice self-care, strengthen your health and build positivity. </p>
 
           <Link to="/music">
             <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Listen Music</button>
@@ -67,7 +67,7 @@ export default function Home() {
         </div>
         <div className=''>
           <h1 className='text-3xl md:text-6xl'>What else do we have</h1>
-          <p className='text-xl md:text-2xl py-4 tracking-wider'>Features such as Web Monetization, Hedera</p>
+          <p className='text-xl md:text-2xl py-4 tracking-wider'> Good space is a web app where you can get inspired everyday with words of wisdom, in moment journals you can record the good moments in your life. Revisit them whenever you want to feel happy! You can get curated music selection to help you relax, focus or sleep better. Curated video selection to boost your physical and mental health through meditation, stretches and breathing exercises.</p>
         </div>
       </div>
     </div>
