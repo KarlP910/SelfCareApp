@@ -40,12 +40,11 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 ## 🧠 Challenges we ran into
 
 - As all the teammates were from different time zones, it was a bit difficult to collaborate, but we managed to get the project done.
-- Some of us did not have any experience with Firebase. We collaborated and helped each other get up to speed.
-- We have some challenges with the backend, but we managed to get most of the features we want working.
+- Some of us did not have any experience with Firebase or backend. We collaborated and helped each other get up to speed. We managed to get most features we want working.
 
 ## 🏅 Accomplishments that we're proud of
 
-- As it was the first time working with Coil, we were able to build a web monetization feature.
+- It was the first time working with Coil but we were able to build a web monetization feature.
 - Completing the project within the given time frame.
 - Creating a fully functional application.
 
@@ -60,7 +59,7 @@ We are using Firebase for database and authentication. Cloud Firestore is a flex
 
 - A mobile app version
 - Search feature for journals, music, exercise
-- Recommendation feature using AI to recommend music or yoga/breathing exercises based on preferences 
+- Recommendation feature using AI to recommend music or yoga/breathing exercises based on preferences. 
 
 <!-- Temp. -->
 
