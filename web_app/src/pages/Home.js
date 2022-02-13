@@ -68,10 +68,13 @@ export default function Home() {
         <div className=''>
           <h1 className='text-3xl md:text-6xl'>What else do we have</h1>
           <p className='text-xl md:text-2xl py-4 tracking-wider'> Good space is a web app where you can:
-          - get inspired everyday with words of wisdom 
-          - record good moments in your life with Journal
-          - access curated music selection to help you relax, focus or sleep better
-          - access curated video selection to boost your physical and mental health through meditation, stretches and breathing exercises.</p>
+          </p>
+          <ul className="text-xl">
+            <li className="list-disc">Access curated video selection to boost your physical and mental health through meditation, stretches and breathing exercises. </li>
+            <li className="list-disc">Get inspired everyday with words of wisdom </li>
+            <li className="list-disc">Record good moments in your life with Journal</li>
+            <li className="list-disc">Access curated music selection to help you relax, focus or sleep better</li>
+          </ul>
         </div>
       </div>
     </div>
